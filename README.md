@@ -4,6 +4,11 @@ A futuristic, AI-augmented Business Intelligence (BI) platform engineered for ex
 
 Built with **Next.js**, **Tailwind CSS**, and optionally powered by **OpenAI** for auto-generated insights, the Wayne Insight Platform reimagines enterprise analytics for a new era of business intelligence.
 
+## 🎥 Demo Video
+
+[Watch Demo Video on Google Drive](https://drive.google.com/file/d/15al3Yr6T2vdga5e9xZqEWp4GNhXJp0j1/view?usp=sharing)
+
+
 ---
 
 ## ⚙️ Project Structure
